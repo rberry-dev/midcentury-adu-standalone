@@ -49,21 +49,24 @@ Neon, Supabase, RDS, etc). Then push the schema:
 npm run db:push
 ```
 
-### 4. (Optional) Migrate existing Midcentury ADU data
+### 4. Seed the initial content
 
-If you're moving off the old shared monorepo database, run the one-time
-migration script. It copies Midcentury-only models, model images, included
-products, posts, and availability windows into this project's database.
+This project ships with the original Midcentury ADU models, floor plan
+images, included products, and blog posts baked into `scripts/seed-data.ts`
+(extracted from the old shared monorepo database when this project was
+split out). Load it into your new database with:
 
 ```bash
-SOURCE_DATABASE_URL="<old shared database URL>" \
 DATABASE_URL="<this project's database URL>" \
 npm run db:seed
 ```
 
-Note: lead records are **not** migrated automatically (the old `leads` table
-had no way to distinguish which site a lead came from). Export/migrate those
-by hand if you need the history.
+This is safe to re-run — it skips rows that already exist instead of
+duplicating them.
+
+Note: lead records are **not** included (the old `leads` table had no way
+to distinguish which site a lead came from). Export/migrate those by hand
+if you need the history.
 
 ### 5. Run the dev server
 
