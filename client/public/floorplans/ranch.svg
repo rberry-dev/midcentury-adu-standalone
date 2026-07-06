@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="660" viewBox="0 0 520 660">
+  <rect width="520" height="660" fill="#F5F1EA"/>
+  <text x="260" y="30" text-anchor="middle" font-family="Georgia,serif" font-size="18" font-weight="bold" letter-spacing="4" fill="#1E1E1E">RANCH</text>
+  <text x="260" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#888880" letter-spacing="1.5">3 BED · 2 BATH · 1,100 SF</text>
+  <line x1="40" y1="66" x2="480" y2="66" stroke="#E0DCD3" stroke-width="0.75"/>
+  <rect x="66.4" y="188.5" width="135.5" height="154.9" fill="#FFFFFF"/>
+  <rect x="201.9" y="188.5" width="87.1" height="87.1" fill="#FFFFFF"/>
+  <rect x="201.9" y="275.6" width="87.1" height="67.8" fill="#FFFFFF"/>
+  <rect x="289.0" y="188.5" width="87.1" height="135.5" fill="#FFFFFF"/>
+  <rect x="376.2" y="188.5" width="77.4" height="135.5" fill="#FFFFFF"/>
+  <rect x="66.4" y="343.4" width="96.8" height="116.2" fill="#FFFFFF"/>
+  <rect x="163.2" y="343.4" width="38.7" height="116.2" fill="#FFFFFF"/>
+  <rect x="201.9" y="324.0" width="251.7" height="135.5" fill="#FFFFFF"/>
+  <rect x="66.4" y="440.2" width="387.2" height="19.4" fill="#E8E4DB"/>
+  <rect x="66.4" y="188.5" width="387.2" height="271.0" fill="none" stroke="#1E1E1E" stroke-width="5" stroke-linejoin="miter"/>
+  <line x1="201.9" y1="188.5" x2="201.9" y2="459.5" stroke="#3A3A3A" stroke-width="2.5"/>
+  <line x1="289.0" y1="188.5" x2="289.0" y2="324.0" stroke="#3A3A3A" stroke-width="2.5"/>
+  <line x1="376.2" y1="188.5" x2="376.2" y2="324.0" stroke="#3A3A3A" stroke-width="2.5"/>
+  <line x1="201.9" y1="275.6" x2="289.0" y2="275.6" stroke="#3A3A3A" stroke-width="2.5"/>
+  <line x1="66.4" y1="343.4" x2="201.9" y2="343.4" stroke="#3A3A3A" stroke-width="2.5"/>
+  <line x1="163.2" y1="343.4" x2="201.9" y2="459.5" stroke="#3A3A3A" stroke-width="2.5"/>
+  <line x1="66.4" y1="440.2" x2="453.6" y2="440.2" stroke="#3A3A3A" stroke-width="2.5"/>
+  <text x="134.2" y="258.9" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="10" font-weight="500" fill="#1E1E1E">BED 1</text>
+  <text x="134.2" y="272.9" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="7.5" fill="#888880">224 SF</text>
+  <text x="245.5" y="232.0" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="9" font-weight="500" fill="#1E1E1E">BATH 1</text>
+  <text x="245.5" y="309.5" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="9" font-weight="500" fill="#1E1E1E">CLOSET</text>
+  <text x="332.6" y="249.2" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="9" font-weight="500" fill="#1E1E1E">BED 2</text>
+  <text x="332.6" y="263.2" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="7.5" fill="#888880">126 SF</text>
+  <text x="414.9" y="249.2" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="9" font-weight="500" fill="#1E1E1E">BED 3</text>
+  <text x="414.9" y="263.2" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="7.5" fill="#888880">112 SF</text>
+  <text x="114.8" y="401.4" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="10" font-weight="500" fill="#1E1E1E">BATH 2</text>
+  <text x="182.6" y="401.4" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="8" font-weight="500" fill="#1E1E1E">LAUNDRY</text>
+  <text x="327.8" y="384.8" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="10" font-weight="500" fill="#1E1E1E">LIVING / DINING / KITCHEN</text>
+  <text x="327.8" y="398.8" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="7.5" fill="#888880">364 SF</text>
+  <text x="260.0" y="449.8" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="8" font-weight="500" fill="#1E1E1E">COVERED PORCH</text>
+  <line x1="66.4" y1="481.5" x2="453.6" y2="481.5" stroke="#888880" stroke-width="0.75"/>
+  <line x1="66.4" y1="476.5" x2="66.4" y2="486.5" stroke="#888880" stroke-width="0.75"/>
+  <line x1="453.6" y1="476.5" x2="453.6" y2="486.5" stroke="#888880" stroke-width="0.75"/>
+  <text x="260.0" y="493.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#888880">40 FT</text>
+  <line x1="44.4" y1="188.5" x2="44.4" y2="459.5" stroke="#888880" stroke-width="0.75"/>
+  <line x1="39.4" y1="188.5" x2="49.4" y2="188.5" stroke="#888880" stroke-width="0.75"/>
+  <line x1="39.4" y1="459.5" x2="49.4" y2="459.5" stroke="#888880" stroke-width="0.75"/>
+  <text x="30.4" y="324.0" text-anchor="middle" dominant-baseline="central" font-family="Arial,sans-serif" font-size="8" fill="#888880" transform="rotate(-90,30.4,324.0)">28 FT</text>
+  <line x1="40" y1="632" x2="136.8" y2="632" stroke="#1E1E1E" stroke-width="1.5"/>
+  <line x1="40" y1="628" x2="40" y2="636" stroke="#1E1E1E" stroke-width="1.5"/>
+  <line x1="136.8" y1="628" x2="136.8" y2="636" stroke="#1E1E1E" stroke-width="1.5"/>
+  <text x="40" y="645" font-family="Arial,sans-serif" font-size="7.5" fill="#888880">0</text>
+  <text x="136.8" y="645" text-anchor="middle" font-family="Arial,sans-serif" font-size="7.5" fill="#888880">10 FT</text>
+  <text x="88.4" y="645" text-anchor="middle" font-family="Arial,sans-serif" font-size="7.5" fill="#888880">|</text>
+  <circle cx="476" cy="630" r="16" fill="none" stroke="#888880" stroke-width="0.75"/>
+  <polygon points="476,618 472,638 476,634 480,638" fill="#1E1E1E"/>
+  <polygon points="476,618 472,638 476,634 480,638" fill="#F5F1EA" clip-path="url(#nclip_RANCH)"/>
+  <text x="476" y="658" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#888880">N</text>
+</svg>
